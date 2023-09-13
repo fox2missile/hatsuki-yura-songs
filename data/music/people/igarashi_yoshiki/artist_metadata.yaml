@@ -1,0 +1,32 @@
+name: 五十嵐芳樹
+name_language: jp
+name_translation:
+  - language: jp_romaji
+    content: Igarashi Yoshiki
+avatar:
+  - url: https://pbs.twimg.com/profile_images/1583455374132514816/B0JHW8-R_400x400.jpg
+    description: X.com user profile picture
+summary:
+  - source: https://50449.kawaiishop.jp/
+    source_description: Profile
+    language: jp
+    content: |
+      50.449(ごじゅってんよんよんきゅー) と読みます。ごじゅってんさんとか、いがらしさんと呼ばれたり、なぜか「先生」と呼ばれています。
+      作曲・アレンジ・音声編集などを行っております。BGM制作は年間200曲以上の実績ありますが最近はほぼ作っていません。歌の曲作り専門となりつつあります。
+    translation:
+        language: en
+        source: https://chat.openai.com/
+        source_description: Chat GPT
+        content: |
+          It reads as "50.449 (gojutten yon yon kyū)".
+          I am called "gojuttesan" or "Igarashisan" or for some reason, I am called "sensei."
+          I engage in composition, arrangement, and audio editing.
+          While I have a track record of producing over 200 BGM pieces per year, I have not been creating many recently.
+          I am increasingly specializing in composing songs with vocals.
+website: 
+  - url: https://50449.kawaiishop.jp/
+    description: Profile website
+  - url: https://www.dojin-music.info/artist/1858
+    description: List of works
+  - url: https://twitter.com/iga449
+    description: X.com profile
