@@ -1,0 +1,17 @@
+name: Fox2
+name_language: en
+avatar:
+  - url: https://pbs.twimg.com/profile_images/1700876819501875200/fO3CuRmF_400x400.jpg
+    description: X.com user profile picture
+summary:
+  - source: https://x.com/airdefense_fox2
+    source_description: Fox2's X.com profile page
+    language: en
+    content: |
+      Fox 2 Missiles seek for warmth in the skies.
+      I love anime-style illustration and I listen to Hatsuki Yura's song a lot.
+website:
+  - url: https://hatsukiyura.quest
+    description: Maintainer of this website
+  - url: https://x.com/airdefense_fox2
+    description: Fox2's X.com user account
